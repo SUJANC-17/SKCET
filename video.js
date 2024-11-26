@@ -45,7 +45,7 @@ function vidi()
             {
                 if(d=="SRIDHAR@")
                 {
-                    document.getElementById("disp").innerHTML+='<img src="tha.jpg" width="403.2" height="302.4" alt="Success Image">';
+                    document.getElementById("disp").innerHTML+='<img src="sri.jpg" width="403.2" height="302.4" alt="Success Image">';
                 }
                 else{
                     alert("The entered password is wrong.");
