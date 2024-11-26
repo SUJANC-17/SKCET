@@ -48,7 +48,7 @@ function vidi()
                     document.getElementById("disp").innerHTML+='<img src="tha.jpg" width="403.2" height="302.4" alt="Success Image">';
                 }
                 else{
-                    alert("The entered password is wrong");
+                    alert("The entered password is wrong.");
                 }
             }
     else{
