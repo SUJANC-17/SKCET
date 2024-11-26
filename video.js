@@ -52,6 +52,6 @@ function vidi()
                 }
             }
     else{
-        alert("The entered username is wrong");
+        alert("The entered username is wrong.");
     }
 }
