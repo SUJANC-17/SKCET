@@ -10,7 +10,7 @@ function vidi()
     {
         if(d==e)
         {
-            document.getElementById("disp").innerHTML='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button>';
+            document.getElementById("disp").innerHTML='<button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button><br>';
             document.getElementById("disp").innerHTML+='<img  src="sujjeeth.jpg" width="302.4" height="403.2">';
             document.getElementById("disp").innerHTML+='<img  src="IMG_0301.jpg" width="302.4" height="403.2">';
             document.getElementById("disp").innerHTML+='<img  src="IMG_0300.jpg" width="302.4" height="403.2">';
@@ -26,7 +26,7 @@ function vidi()
         {
             if(d==e)
             {
-                document.getElementById("disp").innerHTML+='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button>';
+                document.getElementById("disp").innerHTML+='<button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button><br>';
                 document.getElementById("disp").innerHTML+='<img src="IMG_0286.jpg" width="403.2" height="302.4" alt="Success Image">';
                 document.getElementById("disp").innerHTML +='<img src="abc.jpg" width="320" height="426.6667" alt="Success Image">';
                 document.getElementById("disp").innerHTML +='<img src="abcd.jpg" width="320" height="426.6667" alt="Success Image">';
@@ -39,7 +39,7 @@ function vidi()
         {
             if(d==e)
             {
-                document.getElementById("disp").innerHTML='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button>';
+                document.getElementById("disp").innerHTML='<button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button><br>';
                 document.getElementById("disp").innerHTML+='<img src="sri.jpg" width="403.2" height="302.4" alt="Success Image">';
             }
             else{
@@ -50,7 +50,7 @@ function vidi()
             {
                 if(d==e)
                 {
-                    document.getElementById("disp").innerHTML='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button>';
+                    document.getElementById("disp").innerHTML='<button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button><br>';
                     document.getElementById("disp").innerHTML+='<img src="sri.jpg" width="403.2" height="302.4" alt="Success Image">';
                 }
                 else{
