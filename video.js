@@ -10,9 +10,7 @@ function vidi()
     {
         if(d==e)
         {
-            document.getElementById("disp").innerHTML+='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button><div class="input-group mb-3">
-                <input type="text" id="us" class="form-control" placeholder="User Name" aria-label="Recipient's username" aria-describedby="button-addon2">
-            </div>';
+            document.getElementById("disp").innerHTML+='<br><button onclick="for()" name="sub" type="button" class="btn btn-outline-primary">Change Password</button>';
             document.getElementById("disp").innerHTML='<img  src="sujjeeth.jpg" width="302.4" height="403.2">';
             document.getElementById("disp").innerHTML+='<img  src="IMG_0301.jpg" width="302.4" height="403.2">';
             document.getElementById("disp").innerHTML+='<img  src="IMG_0300.jpg" width="302.4" height="403.2">';
