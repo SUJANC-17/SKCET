@@ -1,5 +1,6 @@
 function vidi()
 {
+    
     var a=document.getElementById("us").value;
     var b=document.getElementById("pa").value;
     var c=a.toUpperCase();
@@ -54,4 +55,8 @@ function vidi()
     else{
         alert("The entered username is wrong.");
     }
+}
+function log()
+{
+    location.reload();
 }
